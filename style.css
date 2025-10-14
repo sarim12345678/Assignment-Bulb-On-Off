@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: black;
+}
+#bulbOff{
+    height: 10rem;
+    margin-bottom: 1rem;
+    border-radius: 0.9rem;
+}
+#bulbOn{
+    height: 10rem;
+    margin-bottom: 1rem;
+    border-radius: 0.9rem;
+    display: none;
+}
+button{
+    border: none;
+    color: white;
+    margin-bottom: 1rem;
+    border-radius: 0.4rem;
+    padding: 0.6rem 2rem;
+    background-color: blue;
+    text-align: center;
+}
