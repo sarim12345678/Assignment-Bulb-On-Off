@@ -13,12 +13,12 @@ body{
     background-color: black;
 }
 #bulbOff{
-    height: 10rem;
+    height: 15rem;
     margin-bottom: 1rem;
     border-radius: 0.9rem;
 }
 #bulbOn{
-    height: 10rem;
+    height: 15rem;
     margin-bottom: 1rem;
     border-radius: 0.9rem;
     display: none;
